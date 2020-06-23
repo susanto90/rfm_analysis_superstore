@@ -2,7 +2,7 @@
 
 RFM analysis is a marketing analysis tool used to identify a company's or an organization's best customers by using three quantitative measures 
 which are Recency (R), Frequency (F), Monetary (M).
-For this project, I use superstore data from Kaggle which can be downloaded <a href="https://www.kaggle.com/jr2ngb/superstore-data" target="_blank">here</a>. 
+For this project, I use superstore data from Kaggle which can be downloaded <a href="https://www.kaggle.com/jr2ngb/superstore-data" target="_blank">here</a>. The completed dashboard for the RFM analysis can be found <a href="https://rfm-analysis-superstore.herokuapp.com/" target="_blank">here</a> 
 
 <br>
 There are three metrics used on RFM analysis:
